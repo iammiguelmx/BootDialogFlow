@@ -1,0 +1,36 @@
+{
+  "id": "93818319-9ed9-41c6-b8e6-3972da502feb",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "¡Hola! Soy CodiHacks y te ayudaré a realizar tú registro",
+            "¡Hey! Me llamo CodiHacks y te voy ayudar con tú registro",
+            "Bienvenido al Hack mi nombre es Codi y te ayudaré con tu registro"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "value": "devs",
+    "synonyms": [
+      "backend",
+      "codigo",
+      "desarrollo",
+      "development",
+      "devs",
+      "frontend",
+      "programacion",
+      "programador",
+      "software"
+    ]
+  },
+  {
+    "value": "maker",
+    "synonyms": [
+      "arduino",
+      "circuitos",
+      "comunicaciones",
+      "electromecanica",
+      "electronica",
+      "hecedores",
+      "maker",
+      "mecatronica"
+    ]
+  },
+  {
+    "value": "negocios",
+    "synonyms": [
+      "cambas",
+      "emprendimiento",
+      "modelo",
+      "negocios"
+    ]
+  }
+]
